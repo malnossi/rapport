@@ -1,0 +1,61 @@
+This is BibTeX, Version 0.99d (TeX Live 2022)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: main.aux
+A level-1 auxiliary file: parts/title.aux
+A level-1 auxiliary file: parts/pems.aux
+A level-1 auxiliary file: abstracts/french.aux
+A level-1 auxiliary file: abstracts/english.aux
+A level-1 auxiliary file: parts/introduction.aux
+A level-1 auxiliary file: chapitres/chap1/chap1.aux
+A level-1 auxiliary file: chapitres/chap2/chap2.aux
+A level-1 auxiliary file: chapitres/chap3/chapitre3.aux
+A level-1 auxiliary file: chapitres/chap4/chapter4.aux
+A level-1 auxiliary file: parts/conclue.aux
+The style file: plain.bst
+Database file #1: main.bib
+Warning--to sort, need author or key in guide_maint
+Warning--empty author in guide_maint
+Warning--empty journal in def_maintenance
+Warning--empty journal in rest_hyper
+You've used 3 entries,
+            2118 wiz_defined-function locations,
+            518 strings with 4533 characters,
+and the built_in function-call counts, 590 in all, are:
+= -- 54
+> -- 15
+< -- 0
++ -- 7
+- -- 4
+* -- 29
+:= -- 107
+add.period$ -- 8
+call.type$ -- 3
+change.case$ -- 11
+chr.to.int$ -- 0
+cite$ -- 7
+duplicate$ -- 30
+empty$ -- 53
+format.name$ -- 4
+if$ -- 117
+int.to.chr$ -- 0
+int.to.str$ -- 3
+missing$ -- 3
+newline$ -- 17
+num.names$ -- 4
+pop$ -- 16
+preamble$ -- 1
+purify$ -- 8
+quote$ -- 0
+skip$ -- 21
+stack$ -- 0
+substring$ -- 15
+swap$ -- 1
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 12
+warning$ -- 4
+while$ -- 4
+width$ -- 4
+write$ -- 28
+(There were 4 warnings)

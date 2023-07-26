@@ -1,0 +1,18 @@
+\begin{thebibliography}{1}
+
+\bibitem{guide_maint}
+Guide de bonne execution des analyses des biologie medicale.
+\newblock {\em JOURNAL OFFICIEL DU 11 DECEMBRE 1999}, 1999.
+
+\bibitem{def_maintenance}
+Anfor.
+\newblock Maintenance - concepts et définitions des activités de maintenance.
+\newblock 1994.
+
+\bibitem{rest_hyper}
+Roy~T. Fielding.
+\newblock Rest apis must be
+  hypertext-driven,https://roy.gbiv.com/untangled/2008/rest-apis-must-be-hypertext-driven.
+\newblock 2008.
+
+\end{thebibliography}
